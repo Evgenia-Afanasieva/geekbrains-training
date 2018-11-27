@@ -3,4 +3,8 @@ hoorey!
 change 1
 change2
 change3
+<<<<<<< HEAD
 change5 from master
+=======
+change4 from branch1
+>>>>>>> branch1
